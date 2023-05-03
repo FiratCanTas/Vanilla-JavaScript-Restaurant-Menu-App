@@ -8,6 +8,7 @@
 ![Downloads](https://img.shields.io/github/downloads/FiratCanTas/Vanilla-JavaScript-Restaurant-Menu-App/total) ![Contributors](https://img.shields.io/github/contributors/FiratCanTas/Vanilla-JavaScript-Restaurant-Menu-App?color=dark-green) ![Forks](https://img.shields.io/github/forks/FiratCanTas/Vanilla-JavaScript-Restaurant-Menu-App?style=social) ![Stargazers](https://img.shields.io/github/stars/FiratCanTas/Vanilla-JavaScript-Restaurant-Menu-App?style=social) ![Issues](https://img.shields.io/github/issues/FiratCanTas/Vanilla-JavaScript-Restaurant-Menu-App) ![License](https://img.shields.io/github/license/FiratCanTas/Vanilla-JavaScript-Restaurant-Menu-App) 
 
 ## About The Project
+<img src="images/interface-image.png" alt="menu-interface" width="800"/>
 
 Nowadays, it has become very common to access the menus of restaurants and cafes with a QR code. This application has a very convenient and user-friendly interface to display any menu content.
 
